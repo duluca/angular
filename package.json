@@ -120,10 +120,10 @@
     "source-map-support": "0.5.9",
     "systemjs": "0.18.10",
     "terser": "^4.4.0",
-    "tsickle": "0.37.1",
+    "tsickle": "0.38.0",
     "tslib": "^1.10.0",
     "tslint": "5.7.0",
-    "typescript": "~3.6.4",
+    "typescript": "~3.7.4",
     "xhr2": "0.1.4",
     "yargs": "13.1.0"
   },
